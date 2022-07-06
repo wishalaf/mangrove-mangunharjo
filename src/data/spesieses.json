@@ -1,0 +1,125 @@
+[
+  {
+    "id": 1,
+    "tittle": "Avicennia alba",
+    "deskripsi": "Belukar atau pohon yang tumbuh menyebar dengan ketinggian mencapai 25 m. Kumpulan pohon membentuk sistem perakaran horizontal dan akar nafas yang rumit. Akar nafas biasanya tipis, berbentuk jari (atau seperti asparagus) yang ditutupi oleh lentisel. Kulit kayu luar berwarna keabu-abuan atau gelap kecoklatan, beberapa ditumbuhi tonjolan kecil, sementara yang lain kadangkadang memiliki permukaan yang halus. Pada bagian batang yang tua, kadangkadang ditemukan serbuk tipis.",
+    "daun": "Permukaan halus, bagian atas hijau mengkilat, bawahnya pucat. Unit & Letak: sederhana & berlawanan. Bentuk: lanset (seperti daun akasia) kadang elips. Ujung: meruncing. Ukuran: 16 x 5 cm.",
+    "bunga": "Seperti trisula dengan gerombolan bunga (kuning) hampir di sepanjang ruas tandan. Letak: di ujung/pada tangkai bunga. Formasi: bulir (ada 10-30 bunga per tandan). Daun Mahkota: 4, kuning cerah, 3-4 mm. Kelopak Bunga: 5. Benang sari: 4.",
+    "buah": "Seperti kerucut/cabe/mente. Hijau muda kekuningan. Ukuran: 4 x 2 cm.",
+    "ekologi": "Merupakan jenis pionir pada habitat rawa mangrove di lokasi pantai yang terlindung, juga di bagian yang lebih asin di sepanjang pinggiran sungai yang dipengaruhi pasang surut, serta di sepanjang garis pantai.",
+    "manfaat": "Kayu bakar dan bahan bangunan bermutu rendah. Getah dapat digunakan untuk mencegah kehamilan. Buah dapat dimakan.",
+    "gambar": "avicenniaAlba.jpg"
+  },
+  {
+    "id": 2,
+    "tittle": "Avicennia marina",
+    "deskripsi": "Belukar atau pohon yang tumbuh tegak atau menyebar, ketinggian pohon mencapai 30 meter. Memiliki sistem perakaran horizontal yang rumit dan berbentuk pensil (atau berbentuk asparagus), akar nafas tegak dengan sejumlah lentisel. Kulit kayu halus dengan burik-burik hijau-abu dan terkelupas dalam bagian-bagian kecil. Ranting muda dan tangkai daun berwarna kuning, tidak berbulu.",
+    "daun": "Bagian atas permukaan daun ditutupi bintik-bintik kelenjar berbentuk cekung. Bagian bawah daun putih- abu-abu muda. Unit & Letak: sederhana & berlawanan. Bentuk: elips, bulat memanjang, bulat telur terbalik. Ujung: meruncing hingga membundar. Ukuran: 9 x 4,5 cm.",
+    "bunga": "Seperti trisula dengan bunga bergerombol muncul di ujung tandan, bau menyengat, nektar banyak. Letak: di ujung atau ketiak tangkai/tandan bunga. Formasi: bulir (2-12 bunga per tandan). Daun Mahkota: 4, kuning pucat-jingga tua, 5-8 mm. Kelopak Bunga: 5. Benang sari: 4.",
+    "buah": "Buah agak membulat, berwarna hijau agak keabu-abuan. Permukaan buah berambut halus (seperti ada tepungnya) dan ujung buah agak tajam seperti paruh. Ukuran: sekitar 1,5x2,5 cm.",
+    "ekologi": "Merupakan tumbuhan pionir pada lahan pantai yang terlindung, memiliki kemampuan menempati dan tumbuh pada berbagai habitat pasang-surut, bahkan di tempat asin sekalipun. Jenis ini merupakan salah satu jenis tumbuhan yang paling umum ditemukan di habitat pasang-surut.",
+    "manfaat": "Daun digunakan untuk mengatasi kulit yang terbakar. Resin yang keluar dari kulit kayu digunakan sebagai alat kontrasepsi. Buah dapat dimakan. Kayu menghasilkan bahan kertas berkualitas tinggi. Daun digunakan sebagai makanan ternak.",
+    "gambar": "avicenniaMarina.jpg"
+  },
+  {
+    "id": 3,
+    "tittle": "Rhizopora apiculata",
+    "deskripsi": "Pohon dengan ketinggian mencapai 30 m dengan diameter batang mencapai 50 cm. Memiliki perakaran yang khas hingga mencapai ketinggian 5 meter, dan kadang-kadang memiliki akar udara yang keluar dari cabang. Kulit kayu berwarna abu-abu tua dan berubah-ubah.",
+    "daun": "Berkulit, warna hijau tua dengan hijau muda pada bagian tengah dan kemerahan di bagian bawah. Gagang daun panjangnya 17-35 mm dan warnanya kemerahan. Unit & Letak: sederhana & berlawanan. Bentuk: elips menyempit. Ujung: meruncing. Ukuran: 7-19 x 3,5-8 cm.",
+    "bunga": "Biseksual, kepala bunga kekuningan yang terletak pada gagang berukuran <14 mm. Letak: Di ketiak daun. Formasi: kelompok (2 bunga per kelompok). Daun mahkota: 4; kuning-putih, tidak ada rambut, panjangnya 9-11 mm. Kelopak bunga: 4; kuning kecoklatan, melengkung. Benang sari: 11-12; tak bertangkai.",
+    "buah": "Buah kasar berbentuk bulat memanjang hingga seperti buah pir, warna coklat, panjang 2-3,5 cm, berisi satu biji fertil.",
+    "ekologi": "Tumbuh pada tanah berlumpur, halus, dalam dan tergenang pada saat pasang normal. Tidak menyukai substrat yang lebih keras yang bercampur dengan pasir. Tingkat dominasi dapat mencapai 90% dari vegetasi yang tumbuh di suatu lokasi. Menyukai perairan pasang surut yang memiliki pengaruh masukan air tawar yang kuat secara permanen.",
+    "manfaat": "Kayu dimanfaatkan untuk bahan bangunan, kayu bakar dan arang. Kulit kayu berisi hingga 30% tanin (per sen berat kering). Cabang akar dapat digunakan sebagai jangkar dengan diberati batu. Di Jawa acapkali ditanam di pinggiran tambak untuk melindungi pematang. Sering digunakan sebagai tanaman penghijauan.",
+    "gambar": "rhizoporaApiculata.jpg"
+  },
+  {
+    "id": 4,
+    "tittle": "Rhizopora mucronata",
+    "deskripsi": "Pohon dengan ketinggian mencapai 27 m, jarang melebihi 30 m. Batang memiliki diameter hingga 70 cm dengan kulit kayu berwarna gelap hingga hitam dan terdapat celah horizontal. Akar tunjang dan akar udara yang tumbuh dari percabangan bagian bawah.",
+    "daun": "Daun berkulit. Gagang daun berwarna hijau, panjang 2,5-5,5 cm. Pinak daun terletak pada pangkal gagang daun berukuran 5,5-8,5 cm. Unit & Letak: sederhana & berlawanan. Bentuk: elips melebar hingga bulat memanjang. Ujung: meruncing. Ukuran: 11-23 x 5-13 cm.",
+    "bunga": "Gagang kepala bunga seperti cagak, bersifat biseksual, masing-masing menempel pada gagang individu yang panjangnya 2,5-5 cm. Letak: di ketiak daun. Formasi: Kelompok (4-8 bunga per kelompok). Daun mahkota: 4;putih, ada rambut. 9 mm. Kelopak bunga: 4; kuning pucat, panjangnya 13-19 mm. Benang sari: 8; tak bertangkai.",
+    "buah": "Buah lonjong/panjang hingga berbentuk telur berukuran 5-7 cm, berwarna hijaukecoklatan, seringkali kasar di bagian pangkal, berbiji tunggal. Hipokotil silindris, kasar dan berbintil. Leher kotilodon kuning ketika matang. Ukuran: Hipokotil: panjang 36-70 cm dan diameter 2-3 cm.",
+    "ekologi": "Di areal yang sama dengan R.apiculata tetapi lebih toleran terhadap substrat yang lebih keras dan pasir. Pada umumnya tumbuh dalam kelompok, dekat atau pada pematang sungai pasang surut dan di muara sungai, jarang sekali tumbuh pada daerah yang jauh dari air pasang surut.",
+    "manfaat": "Kayu digunakan sebagai bahan bakar dan arang. Tanin dari kulit kayu digunakan untuk pewarnaan, dan kadang-kadang digunakan sebagai obat dalam kasus hematuria (perdarahan pada air seni). Kadang-kadang ditanam di sepanjang tambak untuk melindungi pematang.",
+    "gambar": "rhizoporaMucronata.jpg"
+  },
+  {
+    "id": 5,
+    "tittle": "Rhizopora stylosa",
+    "deskripsi": "Pohon dengan satu atau banyak batang, tinggi hingga 10 m. Kulit kayu halus, bercelah, berwarna abu-abu hingga hitam. Memiliki akar tunjang dengan panjang hingga 3 m, dan akar udara yang tumbuh dari cabang bawah.",
+    "daun": "Daun berkulit, berbintik teratur di lapisan bawah. Gagang daun berwarna hijau, panjang gagang 1-3,5 cm, dengan pinak daun panjang 4-6 cm. Unit & Letak: sederhana & berlawanan. Bentuk: elips melebar. Ujung: meruncing. Ukuran: meruncing.",
+    "bunga": "Gagang kepala bunga seperti cagak, biseksual, masing-masing menempel pada gagang individu yang panjangnya 2,5-5 cm. Letak: di ketiak daun. Formasi: kelompok (8-16 bunga per kelompok). Daun mahkota: 4; putih, ada rambut. 8 mm. Kelopak bunga: 4; kuning hijau, panjangnya 13-19 mm. Benang sari: 8; dan sebuah tangkai putik, panjang 4-6 mm.",
+    "buah": "Panjangnya 2,5-4 cm, berbentuk buah pir, berwarna coklat, berisi 1 biji fertil. Hipokotil silindris, berbintil agak halus. Leher kotilodon kuning kehijauan ketika matang. Ukuran: Hipokotil: panjang 20-35 cm (kadang sampai 50 cm) dan diameter 1,5-2,0 cm.",
+    "ekologi": "Tumbuh pada habitat yang beragam di daerah pasang surut: lumpur, pasir dan batu. Menyukai pematang sungai pasang surut, tetapi juga sebagai jenis pionir di lingkungan pesisir atau pada bagian daratan dari mangrove.",
+    "manfaat": "Sebagai bahan bangunan, kayu bakar, dan arang. Masyarakat Aborigin di Australia menggunakan kayu jenis ini untuk pembuatan bumerang, tombak serta berbagai obyek upacara. Anggur ringan serta minuman untuk mengobati hematuria (pendarahan pada air seni) dapat dibuat dari buahnya.",
+    "gambar": "rhizoporaStylosa.jpg"
+  },
+  {
+    "id": 6,
+    "tittle": "Xylocarpus granatum",
+    "deskripsi": "Pohon dapat mencapai ketinggian 10-20 m. Memiliki akar papan yang melebar ke samping, meliuk-liuk dan membentuk celahan-celahan. Batang seringkali berlubang, khususnya pada pohon yang lebih tua. Kulit kayu berwarna coklat muda-kekuningan, tipis dan mengelupas, sementara pada cabang yang muda, kulit kayu berkeriput.",
+    "daun": "Agak tebal, susunan daun berpasangan (umumnya 2 pasang pertangkai) dan ada pula yang menyendiri. Unit & Letak: majemuk & berlawanan. Bentuk: elips - bulat telur terbalik. Ujung: membundar. Ukuran: 4,5 - 17 cm x 2,5 - 9 cm.",
+    "bunga": "Bunga terdiri dari dua jenis kelamin atau betina saja. Tandan bunga (panjang 2-7 cm) muncul dari dasar (ketiak) tangkai daun dan tangkai bunga panjangnya 4-8 mm. Letak: di ketiak. Formasi: gerombol acak (8-20 bunga per gerombol). Daun mahkota: 4; lonjong, tepinya bundar, putih kehijauan, panjang 5-7 mm. Kelopak bunga: 4 cuping; kuning muda, panjang 3 mm. Benang sari: berwarna putih krem dan menyatu di dalam tabung.",
+    "buah": "Seperti bola (kelapa), berat bisa 1-2 kg, berkulit, warna hijau kecoklatan. Buahnya bergelantungan pada dahan yang dekat permukaan tanah dan agak tersembunyi.",
+    "ekologi": "Tumbuh di sepanjang pinggiran sungai pasang surut, pinggir daratan dari mangrove, dan lingkungan payau lainnya yang tidak terlalu asin. Seringkali tumbuh mengelompok dalam jumlah besar. Individu yang telah tua seringkali ditumbuhi oleh epifit.",
+    "manfaat": "Kayunya hanya tersedia dalam ukuran kecil, kadang-kadang digunakan sebagai bahan pembuatan perahu. Kulit kayu dikumpulkan karena kandungan taninnya yang tinggi (>24% berat kering).",
+    "gambar": "xylocarpusGranatum.jpg"
+  },
+  {
+    "id": 7,
+    "tittle": "Ipomoea pes-caprae",
+    "deskripsi": "Herba tahunan dengan akar yang tebal. Batang panjangnya 5-30 m dan menjalar, akar tumbuh pada ruas batang. Batang berbentuk bulat, basah dan berwarna hijau kecoklatan.",
+    "daun": "Tunggal, tebal, licin dan mengkilat. Unit & Letak: sederhana dan bersilangan. Bentuk: bulat telur seperti tapak kuda. Ujung: membundar membelah (bertakik). Ukuran: 3-10 x 3-10,5 cm.",
+    "bunga": "Berwarna merah muda - ungu dan agak gelap di bagian pangkal bunga. Bunga membuka penuh sebelum tengah hari, lalu menguncup setelah lewat tengah hari. Letak bunga: di ketiak daun pada gagang yang panjangnya 3-16 cm. Formasi: soliter. Daun mahkota: berbentuk seperti terompet/corong, panjang 3-5 cm, diameter pada saat membuka penuh sekitar 10 cm.",
+    "buah": "Berbentuk kapsul bundar hingga agak datar dengan empat biji berwarna hitam dan berambut rapat. Ukuran: buah 12-17 mm, biji 6-10 mm.",
+    "ekologi": "Tumbuh liar mulai permukaan laut hingga 600 m, biasanya di pantai berpasir, tetapi juga tepat pada garis pantai, serta kadang-kadang pada saluran air.",
+    "manfaat": "Bijinya dilaporkan sebagai obat yang baik untuk sakit perut dan kram. Daunnya untuk obat reumatik/nyeri persendian/pegal-pegal, wasir dan korengan, sedangkan akarnya sebagai obat sakit gigi dan eksim. Cairan dari batangnya digunakan untuk mengobati gigitan dan sengatan binatang. Wanita hamil dilarang memakai tanaman obat ini.",
+    "gambar": "ipomoeaPes-Caprae.jpg"
+  },
+  {
+    "id": 8,
+    "tittle": "Widelia bifolia",
+    "deskripsi": "Ferna tahunan, panjang 1,5-5 m dengan batang yang kurus. Beberapa rambut tumbuh pada kedua sisi permukaan daun dan pada batang.",
+    "daun": "Tepi daun bergerigi, dengan gagang daun panjangnya 0,5-4 cm. Bentuk: bulat telur. Letak: bersilangan. Ukuran: 3-17 x 1-12 cm.",
+    "bunga": "Kepala bunga biasanya soliter, berwarna kuning cerah, terletak pada bagian atas ketiak bunga atau kadang-kadang dalam pasangan, diameter 1,5-2,5 cm. Gagang bunga panjangnya 1-7 cm, ditutupi oleh rambut. Memiliki kekhasan berupa bunga komposit dengan delapan �daun mahkota� (sesungguhnya adalah bunga terpisah berbentuk seperti bendera) dan cakram bunga (betina), berjumlah 20-30.",
+    "buah": "-",
+    "ekologi": "Tumbuh terutama sepanjang atau dekat pantai, pada pantai berpasir dan pinggiran mangrove. Dapat juga tumbuh di perkebunan kelapa, sawah kering, pinggir sungai dan hutan sekunder.",
+    "manfaat": "Daunnya memiliki kepentingan untuk obat, terutama untuk penggunaan luar. Mengobati luka terpotong atau terkena gigitan. Cairan yang diambil dari daunnya dapat digunakan untuk mengobati sakit perut atau digunakan untuk ibu yang baru bersalin. Akar digunakan untuk obat penyakit kelamin. Kadang-kadang ditanam. Digunakan sebagai tumbuhan penutup tanah di perkebunan dengan tujuan untuk menghindari erosi serta mencegah kehilangan air.",
+    "gambar": "wideliaBifolia.jpg"
+  },
+  {
+    "id": 9,
+    "tittle": "Vitex ovata",
+    "gambar": "vitexOvata.jpg"
+  },
+  {
+    "id": 10,
+    "tittle": "Cynedon dactylon",
+    "gambar": "cynedonDactylon.jpg"
+  },
+  {
+    "id": 11,
+    "tittle": "Ageratum eonyzoides",
+    "gambar": "ageratumEonyzoides.jpg"
+  },
+  {
+    "id": 12,
+    "tittle": "Casuarina equisetifolia",
+    "gambar": "casuarinaEquisetifolia.jpg"
+  },
+  {
+    "id": 13,
+    "tittle": "Albizia chinesis",
+    "gambar": "albiziaChinesis.jpg"
+  },
+  {
+    "id": 14,
+    "tittle": "Portulaca leavies Wall",
+    "gambar": "portulacaLeaviesWall.jpg"
+  },
+  {
+    "id": 15,
+    "tittle": "Terminalia catappa",
+    "gambar": "terminaliaCatappa.jpg"
+  }
+]

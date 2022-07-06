@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "question": "Nama kamu siapa ?",
+      "choices": ["Wishal", "Ariq", "Azri", "Idris"],
+      "answer": "Wishal"
+    },
+    {
+      "question": "Umur berapa ?",
+      "choices": ["15", "16", "20", "21"],
+      "answer": "21"
+    },
+    {
+      "question": "2 + 2 ...",
+      "choices": ["1", "2", "3", "4"],
+      "answer": "4"
+    },
+    {
+      "question": "Tinggal dimana ?",
+      "choices": ["Bandung", "Semarang", "Jakarta", "Surabaya"],
+      "answer": "Semarang"
+    },
+    {
+      "question": "KKN dimana ?",
+      "choices": ["Pemalang", "Boyolali", "Mangunharjo", "Tembalang"],
+      "answer": "Mangunharjo"
+    }
+  ]
+}

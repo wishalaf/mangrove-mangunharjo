@@ -1,0 +1,32 @@
+/* Definisi */
+.definisi {
+  text-align: center;
+  margin-top: 50px;
+  font-family: "Viga", sans-serif;
+  background-color: #cde8ca;
+  padding: 40px;
+}
+
+/* fungsi */
+.fungsi {
+  text-align: center;
+  margin-top: 50px;
+  font-family: "Viga", sans-serif;
+}
+
+.fungsi-list {
+  margin-top: 50px;
+  font-family: "Viga", sans-serif;
+}
+
+@media (max-width: 576px) {
+  img {
+    width: 100%;
+  }
+}
+
+@media (min-width: 992px) {
+  img {
+    width: 70%;
+  }
+}

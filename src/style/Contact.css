@@ -1,0 +1,40 @@
+@media (max-width: 576px) {
+  .maps {
+    padding-top: 30px;
+  }
+}
+
+iframe {
+  width: 100%;
+  border-radius: 20px;
+  border: 1;
+}
+
+.mini a {
+  text-decoration: none;
+}
+.mini a i {
+  color: black;
+}
+.mini-1:hover {
+  color: #9a0680;
+  transition: 0.3s;
+}
+.mini-2:hover {
+  color: blue;
+  transition: 0.3s;
+}
+.mini-3:hover {
+  color: aqua;
+  transition: 0.3s;
+}
+.mini-4:hover {
+  color: red;
+  transition: 0.3s;
+}
+@media (min-width: 992px) {
+  iframe {
+    width: 80%;
+    margin-left: 50px;
+  }
+}

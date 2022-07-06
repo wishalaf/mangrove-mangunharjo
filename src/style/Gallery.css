@@ -1,0 +1,21 @@
+/* Mobile */
+.imageCarousel {
+  width: 100%;
+  height: 250;
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+
+/* Desktop */
+@media (min-width: 992px) {
+  .imageCarousel {
+    width: 65%;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .wrapCarousel {
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+}
