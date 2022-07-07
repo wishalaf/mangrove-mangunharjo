@@ -1,12 +1,12 @@
 import React from "react";
-// import { Modal } from "react-bootstrap";
+import { Modal } from "react-bootstrap";
 
-const Modal = ({ onClose, results, data }) => {
+const ModalAnswers = ({ onClose, results, data, show }) => {
   return (
     <>
       {/* Modal 1 */}
 
-      {/* <Modal size="lg">
+      <Modal size="lg" show={show}>
         <Modal.Header closeButton onClick={onClose}>
           <Modal.Title>Your Answer</Modal.Title>
         </Modal.Header>
@@ -23,10 +23,10 @@ const Modal = ({ onClose, results, data }) => {
             })}
           </ul>
         </Modal.Body>
-      </Modal> */}
+      </Modal>
 
       {/* Modal 2 */}
-      <div className="modal-active ms-5">
+      {/* <div className="modal-active ms-5">
         <div className="modal-background" onClick={onClose}></div>
         <div className="modal-content">
           <header className="modal-header justify-between">
@@ -50,9 +50,9 @@ const Modal = ({ onClose, results, data }) => {
             </ul>
           </section>
         </div>
-      </div>
+      </div> */}
     </>
   );
 };
 
-export default Modal;
+export default ModalAnswers;

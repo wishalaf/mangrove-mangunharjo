@@ -4,7 +4,7 @@ import "../style/styleQuiz.css";
 import Question from "./Question";
 import quizData from "../data/quiz.json";
 import End from "./End";
-import Modal from "./Modal";
+import ModalAnswers from "./ModalAnswers";
 
 let interval;
 
@@ -46,7 +46,7 @@ export default function Quiz() {
       {step === 1 && <Start onQuizStart={quizStartHandler} />}
       {step === 2 && <Question data={quizData.data[activeQuestion]} onAnswerUpdate={setAnswers} numberOfQuestion={quizData.data.length} activeQuestion={activeQuestion} onSetActiveQuestion={setActiveQuestion} onSetStep={setStep} />}
       {step === 3 && <End results={answers} data={quizData.data} onReset={resetClickHandler} onAnswersCheck={handleShow} time={time} />}
-      {showModal && <Modal onClose={handleClose} results={answers} data={quizData.data} />}
+      {showModal && <ModalAnswers onClose={handleClose} results={answers} data={quizData.data} show={showModal} />}
     </div>
   );
 }

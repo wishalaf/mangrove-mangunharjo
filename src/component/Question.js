@@ -6,9 +6,9 @@ const Question = ({ data, onAnswerUpdate, numberOfQuestion, activeQuestion, onSe
   const radiosWrapper = useRef();
 
   useEffect(() => {
-    const findCheckInput = radiosWrapper.current.querySelector("input:checked");
-    if (findCheckInput) {
-      findCheckInput.checked = false;
+    const findCheckedInput = radiosWrapper.current.querySelector("input:checked");
+    if (findCheckedInput) {
+      findCheckedInput.checked = false;
     }
   }, [data]);
 

@@ -2,10 +2,19 @@ import React from "react";
 import "../style/styleEdu.css";
 import Mangrove6 from "../asset/Mangrove6.jpg";
 import { Spesies } from "./Spesies";
+import BGeducation from "../asset/BGeducation.jpg";
+import { Container } from "react-bootstrap";
 
 export default function Education() {
   return (
     <>
+      {/* Intro */}
+      <Container fluid className="introEdu">
+        <Container>
+          <h5>Let's Go Study!</h5>
+        </Container>
+      </Container>
+
       {/* Definisi */}
       <div className="container-fluid definisi">
         <div className="container">
