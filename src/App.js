@@ -5,6 +5,7 @@ import Education from "./component/Education";
 import Home from "./component/Home";
 import NavbarRouter from "./component/NavbarRouter";
 import Quiz from "./component/Quiz";
+import Footer from "./component/Footer";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           <Route path="contact" element={<Contact />} />
           <Route path="quiz" element={<Quiz />} />
         </Routes>
+        <Footer />
       </div>
     </>
   );

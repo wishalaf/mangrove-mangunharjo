@@ -6,16 +6,18 @@ import USGS from "../asset/USGS.png";
 import TNC from "../asset/TNC.png";
 import mbahe from "../asset/mbahe.jpg";
 import Gallery from "./Gallery";
+import Gallery5 from "../asset/assetGallery/Gallery5.jpg";
+import { UMKM } from "./UMKM";
 
 export default function Home() {
   return (
     // JUMBOTRON
     <>
       <div className="jumbotron">
-        <div className="mt-2 p-5 text-white container">
+        <div className="p-5 text-white container">
           <div>
             <h1 className="display">
-              Selamat <span>Datang</span> <br />
+              Selamat Datang <br />
             </h1>
             <h3 style={{ marginTop: -20, marginBottom: 30 }}>Mangrove Mangunharjo Semarang</h3>
           </div>
@@ -54,7 +56,7 @@ export default function Home() {
       <div className="container abstrak">
         <div className="row justify-content-center">
           <div className="col-lg-5">
-            <img src={mbahe} style={{ width: "100%", borderRadius: 20 }} alt="mbahe" />
+            <img src={Gallery5} style={{ width: "100%", borderRadius: 20 }} alt="mbahe" />
           </div>
           <div className="col-lg-5 ">
             <div className="abstrak_2 ms-5">
@@ -79,6 +81,9 @@ export default function Home() {
 
       {/* Gallery */}
       <Gallery />
+
+      {/* UMKM */}
+      <UMKM />
     </>
   );
 }

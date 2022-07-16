@@ -1,5 +1,5 @@
 import React from "react";
-import { Modal } from "react-bootstrap";
+import { Modal, Button } from "react-bootstrap";
 
 const ModalAnswers = ({ onClose, results, data, show }) => {
   return (
@@ -13,16 +13,21 @@ const ModalAnswers = ({ onClose, results, data, show }) => {
         <Modal.Body>
           <ul>
             {results.map((result, i) => {
-              <li key={i} className="mb-5">
-                <p>
-                  <strong>{result.q}</strong>
-                </p>
-                <p className={result.a === data[i].answer ? "bg-success text-white p-2" : "bg-danger text-white p-2"}>Your Answer: {result.a}</p>
-                {result.a !== data[i].answer && <p className="bg-primary text-white p-2">Correct Answer: {data[i].answer}</p>}
-              </li>;
+              return (
+                <li key={i} className="mb-5">
+                  <p>
+                    <strong>{result.q}</strong>
+                  </p>
+                  <p className={result.a === data[i].answer ? "bg-success text-white p-2" : "bg-danger text-white p-2"}>Your Answer: {result.a}</p>
+                  {result.a !== data[i].answer && <p className="bg-primary text-white p-2">Correct Answer: {data[i].answer}</p>}
+                </li>
+              );
             })}
           </ul>
         </Modal.Body>
+        <Modal.Footer>
+          <Button onClick={onClose}>Close</Button>
+        </Modal.Footer>
       </Modal>
 
       {/* Modal 2 */}

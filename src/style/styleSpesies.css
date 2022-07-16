@@ -1,0 +1,36 @@
+.spesies {
+  background-image: linear-gradient(to bottom, rgba(102, 116, 125), rgba(255, 255, 255));
+  margin-top: -10px;
+  line-height: 40px;
+  word-spacing: 3px;
+  padding-top: 50px;
+}
+
+.spesiesJudul {
+  text-shadow: 2px 8px 6px rgba(0, 0, 0, 0.2), 0px -5px 35px rgba(255, 255, 255, 0.3);
+}
+
+@media (max-width: 992px) {
+  #loadMore {
+    padding: 7px 85px;
+    font-size: 12px;
+  }
+  .spesiesJudul {
+    margin-bottom: 30px;
+  }
+}
+
+@media (min-width: 992px) {
+  #loadMore {
+    padding: 7px 150px;
+    font-size: 18px;
+  }
+
+  .spesies {
+    padding-top: 115px;
+  }
+
+  .spesiesJudul {
+    margin-bottom: 45px;
+  }
+}

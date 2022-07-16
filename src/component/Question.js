@@ -35,13 +35,19 @@ const Question = ({ data, onAnswerUpdate, numberOfQuestion, activeQuestion, onSe
     <div className="card">
       <div className="card-content">
         <div className="content">
-          <h2 className="mb-5">{data.question}</h2>
+          <p>Question {data.id}</p>
+          <h3 className="mb-4">{data.question}</h3>
+          <hr />
           <div className="control" ref={radiosWrapper}>
             {data.choices.map((choice, i) => (
-              <label className="radio bg-light" key={i}>
-                <input type="radio" name="answer" value={choice} onChange={changeHandler} />
-                {choice}
-              </label>
+              <>
+                <label className="radio bg-light" key={i}>
+                  <h6>
+                    <input type="radio" name="answer" value={choice} onChange={changeHandler} />
+                    {choice}
+                  </h6>
+                </label>
+              </>
             ))}
           </div>
           {error && <div className="text-danger">{error}</div>}

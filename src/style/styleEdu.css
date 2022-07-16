@@ -1,35 +1,53 @@
-/* Intro Edu */
+/* Intro Edu
 .introEdu {
   background-image: url(../asset/introEducation.jpg);
   background-size: cover;
 
   height: 768px;
-}
+} */
 
 /* Definisi */
 .definisi {
   text-align: center;
-  margin-top: 50px;
-  font-family: "Viga", sans-serif;
-  background-color: #cde8ca;
-  padding: 40px;
+  margin-top: -10px;
+  background-color: #66747d;
+  padding: 0 40px 40px 40px;
+  color: #f9f9f9;
+  line-height: 40px;
+  word-spacing: 3px;
+  text-shadow: 2px 8px 6px rgba(0, 0, 0, 0.2), 0px -5px 35px rgba(255, 255, 255, 0.3);
 }
 
 /* fungsi */
 .fungsi {
   text-align: center;
-  margin-top: 50px;
-  font-family: "Viga", sans-serif;
+  margin-top: -10px;
+  background-color: #66747d;
+  color: #f9f9f9;
+  line-height: 40px;
+  word-spacing: 3px;
+  text-shadow: 2px 8px 6px rgba(0, 0, 0, 0.2), 0px -5px 35px rgba(255, 255, 255, 0.3);
 }
 
 .fungsi-list {
   margin-top: 50px;
-  font-family: "Viga", sans-serif;
+}
+
+ol li {
+  text-align: left;
 }
 
 @media (max-width: 576px) {
   img {
     width: 100%;
+  }
+
+  .introKata {
+    margin-top: 20px;
+  }
+
+  .fungsiMangrove {
+    padding-top: 50px;
   }
 }
 
@@ -37,10 +55,34 @@
   img {
     width: 100%;
   }
+
+  .introKata {
+    margin-top: 30px;
+  }
+
+  .definisiJudul {
+    text-align: center;
+  }
+
+  .fungsiMangrove {
+    padding-top: 50px;
+  }
 }
 
 @media (min-width: 992px) {
   img {
-    width: 70%;
+    width: 80%;
+  }
+
+  .educationImage {
+    width: 85%;
+  }
+
+  .introKata {
+    margin-top: 170px;
+  }
+
+  .definisiJudul {
+    text-align: left;
   }
 }

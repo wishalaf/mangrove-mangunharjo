@@ -3,7 +3,7 @@ import "../style/Contact.css";
 
 export default function Contact() {
   return (
-    <div className="container-fluid" style={{ paddingTop: "2rem" }}>
+    <div className="container-fluid page-container" style={{ paddingTop: "2rem" }}>
       <div className="container">
         <div className="row">
           <div className="col-md-12">
@@ -14,14 +14,13 @@ export default function Contact() {
           </div>
           <div className="col-md-6">
             <p style={{ marginTop: 20 }}>
-              <i className="fas fa-map-marker-alt p-2"></i>Jl.Kokrosono, Panggung Lor, <br />
-              Kec. Semarang Utara, Semarang
+              <i className="fas fa-map-marker-alt p-2"></i>Jl.Laut Mangunharjo No.22 Semarang
             </p>
             <p>
-              <i className="fas fa-phone-alt p-2"></i>(024) 351-3404
+              <i className="fas fa-phone-alt p-2 "></i>(024) 8663500
             </p>
             <p>
-              <i className="fas fa-envelope p-2"></i>sekretariat@sman14-smg.sch.id
+              <i className="fas fa-envelope p-2 "></i>kectugu@gmail.com
             </p>
             <h4 className="mb-2">Ikuti Kami</h4>
             <div className="minibar">

@@ -1,8 +1,3 @@
-body {
-  height: 5000px;
-  font-family: "Viga", sans-serif;
-}
-
 /* Navbar */
 
 /* Utility */
@@ -49,7 +44,8 @@ body {
 .jumbotron .display {
   color: white;
   margin-top: 150px;
-  text-shadow: 1px 1px 1px rgba(0, 0, 0, 1);
+
+  text-shadow: 6px 6px 0px rgba(0, 0, 0, 0.2);
   font-family: "Viga", sans-serif;
   margin-bottom: 30px;
 }
@@ -99,6 +95,22 @@ body {
 @media (min-width: 992px) {
   .navbar-brand {
     margin-left: 60px;
+  }
+
+  /* .nav-link:hover::after {
+  content: "";
+  display: block;
+  border-bottom: 3px solid #fcba03;
+  width: 50%;
+  margin: auto;
+  padding-bottom: 5px;
+  margin-bottom: -8px;
+} */
+
+  .navbar-nav .active {
+    display: block;
+    border-bottom: 3px solid #fcba03;
+    padding-bottom: 5px;
   }
 
   .jumbotron {

@@ -1,29 +1,34 @@
 {
   "data": [
     {
-      "question": "Nama kamu siapa ?",
-      "choices": ["Wishal", "Ariq", "Azri", "Idris"],
-      "answer": "Wishal"
+      "id": 1,
+      "question": "Hutan mangrove banyak ditemukan di daerah ...",
+      "choices": ["Dataran tinggi", "Pantai berpasir putih", "Pasang surut", "Dataran rendah"],
+      "answer": "Pasang surut"
     },
     {
-      "question": "Umur berapa ?",
-      "choices": ["15", "16", "20", "21"],
-      "answer": "21"
+      "id": 2,
+      "question": "Apa Fungsi ekologis dari hutan mangrove ?",
+      "choices": ["Sebagai penghasil keuntungan bagi masyarakat sekitar", "Sebagai tempat wisata yang indah bagi wisatawan", "Sebagai pelindung dari adanya gempa bumi", "Sebagai habitat atau tempat hidup binatang laut"],
+      "answer": "Sebagai habitat atau tempat hidup binatang laut"
     },
     {
-      "question": "2 + 2 ...",
-      "choices": ["1", "2", "3", "4"],
-      "answer": "4"
+      "id": 3,
+      "question": "Hari mangrove sedunia yang diadopsi oleh UNESCO pada tanggal ...",
+      "choices": ["26 Juni", "27 Juni", "26 Juli", "27 Juli"],
+      "answer": "26 Juli"
     },
     {
-      "question": "Tinggal dimana ?",
-      "choices": ["Bandung", "Semarang", "Jakarta", "Surabaya"],
-      "answer": "Semarang"
+      "id": 4,
+      "question": "Peran mangrove sebagai pencegah pemanasan global adalah dengan...",
+      "choices": ["Penyerap karbon yang baik", "Penghasil polutan", "Penghasil oksigen terbatas", "Penetral sampah"],
+      "answer": "Penyerap karbon yang baik"
     },
     {
-      "question": "KKN dimana ?",
-      "choices": ["Pemalang", "Boyolali", "Mangunharjo", "Tembalang"],
-      "answer": "Mangunharjo"
+      "id": 5,
+      "question": "Hutan Mangrove mencegah terjadinya ...",
+      "choices": ["Erosi", "Tsunami", "Abrasi", "Semua benar"],
+      "answer": "Abrasi"
     }
   ]
 }

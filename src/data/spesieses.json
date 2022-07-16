@@ -2,6 +2,7 @@
   {
     "id": 1,
     "tittle": "Avicennia alba",
+    "jenis": "(Mangrove Mayor)",
     "deskripsi": "Belukar atau pohon yang tumbuh menyebar dengan ketinggian mencapai 25 m. Kumpulan pohon membentuk sistem perakaran horizontal dan akar nafas yang rumit. Akar nafas biasanya tipis, berbentuk jari (atau seperti asparagus) yang ditutupi oleh lentisel. Kulit kayu luar berwarna keabu-abuan atau gelap kecoklatan, beberapa ditumbuhi tonjolan kecil, sementara yang lain kadangkadang memiliki permukaan yang halus. Pada bagian batang yang tua, kadangkadang ditemukan serbuk tipis.",
     "daun": "Permukaan halus, bagian atas hijau mengkilat, bawahnya pucat. Unit & Letak: sederhana & berlawanan. Bentuk: lanset (seperti daun akasia) kadang elips. Ujung: meruncing. Ukuran: 16 x 5 cm.",
     "bunga": "Seperti trisula dengan gerombolan bunga (kuning) hampir di sepanjang ruas tandan. Letak: di ujung/pada tangkai bunga. Formasi: bulir (ada 10-30 bunga per tandan). Daun Mahkota: 4, kuning cerah, 3-4 mm. Kelopak Bunga: 5. Benang sari: 4.",
@@ -13,6 +14,7 @@
   {
     "id": 2,
     "tittle": "Avicennia marina",
+    "jenis": "(Mangrove Mayor)",
     "deskripsi": "Belukar atau pohon yang tumbuh tegak atau menyebar, ketinggian pohon mencapai 30 meter. Memiliki sistem perakaran horizontal yang rumit dan berbentuk pensil (atau berbentuk asparagus), akar nafas tegak dengan sejumlah lentisel. Kulit kayu halus dengan burik-burik hijau-abu dan terkelupas dalam bagian-bagian kecil. Ranting muda dan tangkai daun berwarna kuning, tidak berbulu.",
     "daun": "Bagian atas permukaan daun ditutupi bintik-bintik kelenjar berbentuk cekung. Bagian bawah daun putih- abu-abu muda. Unit & Letak: sederhana & berlawanan. Bentuk: elips, bulat memanjang, bulat telur terbalik. Ujung: meruncing hingga membundar. Ukuran: 9 x 4,5 cm.",
     "bunga": "Seperti trisula dengan bunga bergerombol muncul di ujung tandan, bau menyengat, nektar banyak. Letak: di ujung atau ketiak tangkai/tandan bunga. Formasi: bulir (2-12 bunga per tandan). Daun Mahkota: 4, kuning pucat-jingga tua, 5-8 mm. Kelopak Bunga: 5. Benang sari: 4.",
@@ -24,6 +26,7 @@
   {
     "id": 3,
     "tittle": "Rhizopora apiculata",
+    "jenis": "(Mangrove Mayor)",
     "deskripsi": "Pohon dengan ketinggian mencapai 30 m dengan diameter batang mencapai 50 cm. Memiliki perakaran yang khas hingga mencapai ketinggian 5 meter, dan kadang-kadang memiliki akar udara yang keluar dari cabang. Kulit kayu berwarna abu-abu tua dan berubah-ubah.",
     "daun": "Berkulit, warna hijau tua dengan hijau muda pada bagian tengah dan kemerahan di bagian bawah. Gagang daun panjangnya 17-35 mm dan warnanya kemerahan. Unit & Letak: sederhana & berlawanan. Bentuk: elips menyempit. Ujung: meruncing. Ukuran: 7-19 x 3,5-8 cm.",
     "bunga": "Biseksual, kepala bunga kekuningan yang terletak pada gagang berukuran <14 mm. Letak: Di ketiak daun. Formasi: kelompok (2 bunga per kelompok). Daun mahkota: 4; kuning-putih, tidak ada rambut, panjangnya 9-11 mm. Kelopak bunga: 4; kuning kecoklatan, melengkung. Benang sari: 11-12; tak bertangkai.",
@@ -35,6 +38,7 @@
   {
     "id": 4,
     "tittle": "Rhizopora mucronata",
+    "jenis": "(Mangrove Mayor)",
     "deskripsi": "Pohon dengan ketinggian mencapai 27 m, jarang melebihi 30 m. Batang memiliki diameter hingga 70 cm dengan kulit kayu berwarna gelap hingga hitam dan terdapat celah horizontal. Akar tunjang dan akar udara yang tumbuh dari percabangan bagian bawah.",
     "daun": "Daun berkulit. Gagang daun berwarna hijau, panjang 2,5-5,5 cm. Pinak daun terletak pada pangkal gagang daun berukuran 5,5-8,5 cm. Unit & Letak: sederhana & berlawanan. Bentuk: elips melebar hingga bulat memanjang. Ujung: meruncing. Ukuran: 11-23 x 5-13 cm.",
     "bunga": "Gagang kepala bunga seperti cagak, bersifat biseksual, masing-masing menempel pada gagang individu yang panjangnya 2,5-5 cm. Letak: di ketiak daun. Formasi: Kelompok (4-8 bunga per kelompok). Daun mahkota: 4;putih, ada rambut. 9 mm. Kelopak bunga: 4; kuning pucat, panjangnya 13-19 mm. Benang sari: 8; tak bertangkai.",
@@ -46,17 +50,19 @@
   {
     "id": 5,
     "tittle": "Rhizopora stylosa",
+    "jenis": "(Mangrove Mayor)",
     "deskripsi": "Pohon dengan satu atau banyak batang, tinggi hingga 10 m. Kulit kayu halus, bercelah, berwarna abu-abu hingga hitam. Memiliki akar tunjang dengan panjang hingga 3 m, dan akar udara yang tumbuh dari cabang bawah.",
     "daun": "Daun berkulit, berbintik teratur di lapisan bawah. Gagang daun berwarna hijau, panjang gagang 1-3,5 cm, dengan pinak daun panjang 4-6 cm. Unit & Letak: sederhana & berlawanan. Bentuk: elips melebar. Ujung: meruncing. Ukuran: meruncing.",
     "bunga": "Gagang kepala bunga seperti cagak, biseksual, masing-masing menempel pada gagang individu yang panjangnya 2,5-5 cm. Letak: di ketiak daun. Formasi: kelompok (8-16 bunga per kelompok). Daun mahkota: 4; putih, ada rambut. 8 mm. Kelopak bunga: 4; kuning hijau, panjangnya 13-19 mm. Benang sari: 8; dan sebuah tangkai putik, panjang 4-6 mm.",
     "buah": "Panjangnya 2,5-4 cm, berbentuk buah pir, berwarna coklat, berisi 1 biji fertil. Hipokotil silindris, berbintil agak halus. Leher kotilodon kuning kehijauan ketika matang. Ukuran: Hipokotil: panjang 20-35 cm (kadang sampai 50 cm) dan diameter 1,5-2,0 cm.",
     "ekologi": "Tumbuh pada habitat yang beragam di daerah pasang surut: lumpur, pasir dan batu. Menyukai pematang sungai pasang surut, tetapi juga sebagai jenis pionir di lingkungan pesisir atau pada bagian daratan dari mangrove.",
     "manfaat": "Sebagai bahan bangunan, kayu bakar, dan arang. Masyarakat Aborigin di Australia menggunakan kayu jenis ini untuk pembuatan bumerang, tombak serta berbagai obyek upacara. Anggur ringan serta minuman untuk mengobati hematuria (pendarahan pada air seni) dapat dibuat dari buahnya.",
-    "gambar": "rhizoporaStylosa.jpg"
+    "gambar": "RhizoporaStylosa.jpeg"
   },
   {
     "id": 6,
     "tittle": "Xylocarpus granatum",
+    "jenis": "(Mangrove Mayor)",
     "deskripsi": "Pohon dapat mencapai ketinggian 10-20 m. Memiliki akar papan yang melebar ke samping, meliuk-liuk dan membentuk celahan-celahan. Batang seringkali berlubang, khususnya pada pohon yang lebih tua. Kulit kayu berwarna coklat muda-kekuningan, tipis dan mengelupas, sementara pada cabang yang muda, kulit kayu berkeriput.",
     "daun": "Agak tebal, susunan daun berpasangan (umumnya 2 pasang pertangkai) dan ada pula yang menyendiri. Unit & Letak: majemuk & berlawanan. Bentuk: elips - bulat telur terbalik. Ujung: membundar. Ukuran: 4,5 - 17 cm x 2,5 - 9 cm.",
     "bunga": "Bunga terdiri dari dua jenis kelamin atau betina saja. Tandan bunga (panjang 2-7 cm) muncul dari dasar (ketiak) tangkai daun dan tangkai bunga panjangnya 4-8 mm. Letak: di ketiak. Formasi: gerombol acak (8-20 bunga per gerombol). Daun mahkota: 4; lonjong, tepinya bundar, putih kehijauan, panjang 5-7 mm. Kelopak bunga: 4 cuping; kuning muda, panjang 3 mm. Benang sari: berwarna putih krem dan menyatu di dalam tabung.",
@@ -67,7 +73,20 @@
   },
   {
     "id": 7,
+    "tittle": "Bruguiera cylindrica",
+    "jenis": "(Mangrove Mayor)",
+    "deskripsi": "Pohon selalu hijau, berakar lutut dan akar papan yang melebar ke samping di bagian pangkal pohon, ketinggian pohon kadang-kadang mencapai 23 meter. Kulit kayu abu-abu, relatif halus dan memiliki sejumlah lentisel kecil.",
+    "daun": "Permukaan atas daun hijau cerah bagian bawahnya hijau agak kekuningan. Unit & Letak: sederhana & berlawanan. Bentuk: elips. Ujung: agak meruncing. Ukuran: 7-17 x 2-8 cm.",
+    "bunga": "Bunga mengelompok, muncul di ujung tandan (panjang tandan: 1-2 cm). Sisi luar bunga bagian bawah biasanya memiliki rambut putih. Letak: di ujung atau ketiak tangkai/tandan bunga. Formasi: di ujung atau ketiak tangkai/tandan bunga. Daun Mahkota: putih, lalu menjadi coklat ketika umur bertambah, 3- 4 mm. Kelopak Bunga: 8; hijau kekuningan, bawahnya seperti tabung.",
+    "buah": "Hipokotil (seringkali disalah artikan sebagai buah) berbentuk silindris memanjang, sering juga berbentuk kurva. Warna hijau didekat pangkal buah dan hijau keunguan di bagian ujung. Pangkal buah menempel pada kelopak bunga. Ukuran: Hipokotil: panjang 8-15 cm dan diameter 5-10 mm.",
+    "ekologi": "Tumbuh mengelompok dalam jumlah besar, biasanya pada tanah liat di belakang zona Avicennia, atau di bagian tengah vegetasi mangrove kearah laut. Jenis ini juga memiliki kemampuan untuk tumbuh pada tanah/substrat yang baru terbentuk dan tidak cocok untuk jenis lainnya. Kemampuan tumbuhnya pada tanah liat membuat pohon jenis ini sangat bergantung kepada akar nafas untuk memperoleh pasokan oksigen yang cukup, dan oleh karena itu sangat responsif terhadap penggenangan yang berkepanjangan. Memiliki buah yang ringan dan mengapung sehinggga penyebarannya dapat dibantu oleh arus air, tapi pertumbuhannya lambat. Perbungaan terjadi sepanjang tahun.",
+    "manfaat": "Untuk kayu bakar. Di beberapa daerah, akar muda dari embrionya dimakan dengan gula dan kelapa. Para nelayan tidak menggunakan kayunya untuk kepentingan penangkapan ikan karena kayu tersebut mengeluarkan bau yang menyebabkan ikan tidak mau mendekat.",
+    "gambar": "bruguiera.jpg"
+  },
+  {
+    "id": 8,
     "tittle": "Ipomoea pes-caprae",
+    "jenis": "(Mangrove Asosiasi)",
     "deskripsi": "Herba tahunan dengan akar yang tebal. Batang panjangnya 5-30 m dan menjalar, akar tumbuh pada ruas batang. Batang berbentuk bulat, basah dan berwarna hijau kecoklatan.",
     "daun": "Tunggal, tebal, licin dan mengkilat. Unit & Letak: sederhana dan bersilangan. Bentuk: bulat telur seperti tapak kuda. Ujung: membundar membelah (bertakik). Ukuran: 3-10 x 3-10,5 cm.",
     "bunga": "Berwarna merah muda - ungu dan agak gelap di bagian pangkal bunga. Bunga membuka penuh sebelum tengah hari, lalu menguncup setelah lewat tengah hari. Letak bunga: di ketiak daun pada gagang yang panjangnya 3-16 cm. Formasi: soliter. Daun mahkota: berbentuk seperti terompet/corong, panjang 3-5 cm, diameter pada saat membuka penuh sekitar 10 cm.",
@@ -77,49 +96,101 @@
     "gambar": "ipomoeaPes-Caprae.jpg"
   },
   {
-    "id": 8,
+    "id": 9,
     "tittle": "Widelia bifolia",
+    "jenis": "(Mangrove Asosiasi)",
     "deskripsi": "Ferna tahunan, panjang 1,5-5 m dengan batang yang kurus. Beberapa rambut tumbuh pada kedua sisi permukaan daun dan pada batang.",
     "daun": "Tepi daun bergerigi, dengan gagang daun panjangnya 0,5-4 cm. Bentuk: bulat telur. Letak: bersilangan. Ukuran: 3-17 x 1-12 cm.",
-    "bunga": "Kepala bunga biasanya soliter, berwarna kuning cerah, terletak pada bagian atas ketiak bunga atau kadang-kadang dalam pasangan, diameter 1,5-2,5 cm. Gagang bunga panjangnya 1-7 cm, ditutupi oleh rambut. Memiliki kekhasan berupa bunga komposit dengan delapan �daun mahkota� (sesungguhnya adalah bunga terpisah berbentuk seperti bendera) dan cakram bunga (betina), berjumlah 20-30.",
+    "bunga": "Kepala bunga biasanya soliter, berwarna kuning cerah, terletak pada bagian atas ketiak bunga atau kadang-kadang dalam pasangan, diameter 1,5-2,5 cm. Gagang bunga panjangnya 1-7 cm, ditutupi oleh rambut. Memiliki kekhasan berupa bunga komposit dengan delapan daun mahkota (sesungguhnya adalah bunga terpisah berbentuk seperti bendera) dan cakram bunga (betina), berjumlah 20-30.",
     "buah": "-",
     "ekologi": "Tumbuh terutama sepanjang atau dekat pantai, pada pantai berpasir dan pinggiran mangrove. Dapat juga tumbuh di perkebunan kelapa, sawah kering, pinggir sungai dan hutan sekunder.",
     "manfaat": "Daunnya memiliki kepentingan untuk obat, terutama untuk penggunaan luar. Mengobati luka terpotong atau terkena gigitan. Cairan yang diambil dari daunnya dapat digunakan untuk mengobati sakit perut atau digunakan untuk ibu yang baru bersalin. Akar digunakan untuk obat penyakit kelamin. Kadang-kadang ditanam. Digunakan sebagai tumbuhan penutup tanah di perkebunan dengan tujuan untuk menghindari erosi serta mencegah kehilangan air.",
     "gambar": "wideliaBifolia.jpg"
   },
   {
-    "id": 9,
+    "id": 10,
     "tittle": "Vitex ovata",
+    "jenis": "(Mangrove Asosiasi)",
+    "deskripsi": "Tanaman legundi (Vitex trifolia L. sinonim V. rotundiolia, Suku Verbenaceae) merupakan tanaman tropis yang banyak digunakan sebagai bahan baku obat tradisional. Tanaman ini berupa perdu atau pohon kecil yang tingginya 1,5-5 meter, dapat tumbuh pada daerah ketinggian 1000 meter di atas permukaan air laut. Batang berkayu, bulat, ranting berambut, putih kotor.",
+    "daun": "Daunnya majemuk, berseling berhadapan, terdiri dari tiga anak daun berbentuk bulat telur, ujung dan pangkal tumpul, tepi rata, pertulangan menyirip, hijau. Rasanya pahit dan tajam. Tinggi daun kelopak 3-4,5 mm.",
+    "bunga": "Bunga susunan majemuk malai, dengan struktur dasar menggarpu, malai 3,5-24 cm, garpu 2-6,5, 3-15 bunga, rapat dan berjejal.",
+    "buah": "Bakal buah sempurna 2 ruang, perruang 2 bagian",
+    "ekologi": "Legundi adalah salah satu jenis tanaman yang banyak hidup di kawasan tropis.",
+    "manfaat": "Efek farmakologis legundi diantaranya sebagai obat influenza, demam, migren, sakit kepala (cephalgia), sakit gigi, sakit perut, diare, mata merah, rematik, beri, batuk, luka terpukul, luka berdarah, muntah darah, eksim, haid tidak teratur, prolapses uteri, dan pembunuh serangga. Akar legundi menpunyai efek farmakologis mencegah kehamilan dan perawatan setelah bersalin. Bijinya untuk obat pereda, penyegar badan, dan perawatan rambut. Buah legundi digunakan untuk obat cacing dan peluruh haid. Sementara itu, daunnya untuk analgesik, antipiretik, obat luka, peluruh kencing, peluruh kentut, pereda kejang, menormalkan siklus haid, dan germicide (pembunuh kuman)",
+
     "gambar": "vitexOvata.jpg"
   },
   {
-    "id": 10,
+    "id": 11,
     "tittle": "Cynedon dactylon",
+    "jenis": "(Mangrove Asosiasi)",
+    "deskripsi": "Cynodon dactylon dapat dideskripsikan memiliki terna bertahunan yang berstolon,merumput dengan rimpang bawah tanah menembus tanah sampai kedalaman 1m atau lebih bahkan ada literature yang menjelaskan sampai pada kedalaman 2 m. Lamina melancip-memita, berlapis lilin putih keabu-abuan tipis di permukaan bawah, gundul atau berambut pada permukaan atas.",
+    "daun": "Pelepah daun panjang, halus, berambut atau gundul;ligula tampak jelas berupa cincin rambut-rambut putih.",
+    "bunga": "Bunga tegak,seperti tandan.",
+    "ekologi": "Habitat Cynodon dactylon adalah tumbuh paling bagus pada suhu di atas 24 °C. Jenis initoleran terhadap kekeringan. Tumbuh paling baik pada tanah berdrainase baik tetapi toleran terhadap banjir yang berkepanjangan.Toleran terhadap kisaran pH tanah yang luas, tetapi pH optimal adalahdi atas 5.5. Juga toleran terhadap kesuburan tanah yang rendah tetapi tidak toleran terhadap naungan.",
+    "manfaat": "Kemampuannya tumbuh dan menyebar dengan cepat dan juga dapat bertahan dalam situasi ekstrim, rumput grinting sangat bermanfaat untuk perlindungan erosi,pada lahan miring yang berpotensi erosi. Di Indonesia rumput ini dibudidayakan dan dipersilangkan dengan family yang lain dipergunakan untuk lapangan golf dan penanaman rumput taman.",
     "gambar": "cynedonDactylon.jpg"
   },
   {
-    "id": 11,
+    "id": 12,
     "tittle": "Ageratum eonyzoides",
+    "jenis": "(Mangrove Asosiasi)",
+    "deskripsi": "Ageratum conyzoides adalah sejenis gulma pertanian anggota suku Asteraceae. Terna semusim ini berasal dari Amerika tropis, khususnya Brasil, akan tetapi telah lama masuk dan meliar di wilayah Nusantara. Terna berbau keras, berbatang tegak atau berbaring, berakar pada bagian yang menyentuh tanah, batang gilig dan berambut jarang, sering bercabang-cabang, dengan satu atau banyak kuntum bunga majemuk yang terletak di ujung, tinggi hingga 120 cm.",
+    "daun": "Daun-daun bertangkai, 0,5–5 cm, terletak berseling atau berhadapan, terutama yang letaknya di bagian bawah. Helaian daun bundar telur hingga menyerupai belah ketupat, 2–10 × 0,5–5 cm; dengan pangkal agak-agak seperti jantung, membulat atau meruncing; dan ujung tumpul atau meruncing; bertepi beringgit atau bergerigi; kedua permukaannya berambut panjang, dengan kelenjar di sisi bawah",
+    "bunga": "Bunga-bunga dengan kelamin yang sama berkumpul dalam bongkol rata-atas, yang selanjutnya (3 bongkol atau lebih) terkumpul dalam malai rata terminal. Bongkol 6–8 mm panjangnya, berisi 60–70 individu bunga, di ujung tangkai yang berambut, dengan 2–3 lingkaran daun pembalut yang lonjong seperti sudip yang meruncing. Mahkota dengan tabung sempit, putih atau ungu.",
+    "buah": "Buah kurung (achenium) bersegi-5, panjang lk. 2 mm; berambut sisik 5, putih.",
+    "ekologi": "Tumbuhan ini menyebar luas di seluruh wilayah tropika, bahkan hingga subtropika. Didatangkan ke Jawa sebelum 1860, kini gulma ini telah menyebar luas di Indonesia. Bandotan sering ditemukan sebagai tumbuhan pengganggu di sawah-sawah yang mengering, ladang, pekarangan, tepi jalan, tanggul, tepi air, dan wilayah bersemak belukar. Ditemukan hingga ketinggian 3.000 m, terna ini berbunga sepanjang tahun dan dapat menghasilkan hingga 40.000 biji per individu tumbuhan. Karenanya, gulma ini dirasakan cukup mengganggu di perkebunan.",
+    "manfaat": "Di Bogor, babadotan dikenal luas sebagai obat luka. Menurut Heyne, daun tumbuhan ini diremas-remas, dicampur dengan kapur, dioleskan pada luka yang masih segar. Rebusan dari daun juga digunakan untuk obat sakit dada, sementara ekstrak daunnya untuk obat mata yang panas. Akar yang ditumbuk dioleskan ke badan untuk obat demam; ekstraknya dapat diminum. Daunnya bisa dijadikan obat tetes mata, dengan jalan menumbuknya; air tumbukan tersebut, bisa diteteskan ke mata untuk cuci mata.",
     "gambar": "ageratumEonyzoides.jpg"
   },
   {
-    "id": 12,
+    "id": 13,
     "tittle": "Casuarina equisetifolia",
+    "jenis": "(Mangrove Asosiasi)",
+    "deskripsi": "Cemara laut adalah salah satu jenis cemara dari golongan Casuarina. Tumbuhan ini juga memiliki sebutan pautan yaitu Australian pine dan beach she-oak. Cemara laut merupakan tanamah jenis pohon berumah satu dengan percabangan halus, dan pepagan berwarna coklat-keabu-abuan muda.",
+    "daun": "Daun daru cemara laut mudah gugur, tumbuh merunduk, berwujud seperti jarum serta berwarna hijau-keabu-abuan. Daun cemara laut mereduksi menjadi seperti lidi yang berruas-ruas dan berjumlah 7—8 tiap-tiap ruas",
+    "bunga": "Bunga jantannya berupa bulir memanjang, tunggal, dan terletak pada bagian terminal sedangkan bunga betina terletak pada cabang berkayu yang menyamping",
+    "buah": "Biji berukuran sangat kecil dan dibungkus oleh selaput tipis, sehingga mudah diterbangkan oleh angin. Biji cemara laut memiliki embrio dengan daya kecambah yang rendah.",
+    "ekologi": "Secara umum pohon ini berbentuk kurus dan banyak ditemukan di sepanjang pinggir pantai.",
+    "manfaat": "Sebagai tanaman hias, tanaman ini memiliki nilai ekonomi dan estetika yang tinggi. Selain itu, tanaman ini merupakan tanaman yang potensial untuk dikembangkan dalam upaya konservasi kawasan pesisir, sebagai penahan angin dan abrasi air laut",
     "gambar": "casuarinaEquisetifolia.jpg"
   },
   {
-    "id": 13,
+    "id": 14,
     "tittle": "Albizia chinesis",
+    "jenis": "(Mangrove Asosiasi)",
+    "deskripsi": "Sengon (Albizia chinensis) adalah sejenis pohon anggota suku Fabaceae. Pohon peneduh dan penghasil kayu ini tersebar secara alami di India, Asia Tenggara, Tiongkok selatan, dan Indonesia. Pohon yang menggugurkan daun; berukuran sedang hingga tinggi, 30–45 m, dan gemang batangnya 70(–140) cm. Pepagan agak halus, di luarnya abu-abu gelap, dengan gigir-gigir melintang, berlentisel, tipis; pepagan bagian dalam setebal 5 mm, merah jambon. Ranting-ranting muda bersegi dan berambut.",
+    "daun": "Daun-daun majemuk menyirip berganda, dengan 4–14 pasang sirip; tulang daun utama 10–25 cm, berambut, dengan kelenjar dekat pangkal tangkai daun dan pada pertemuan tulang sirip. Daun penumpu besar, bundar telur miring dengan pangkal yang setengah berbentuk jantung, seperti membran, dengan ekor di ujungnya; lekas rontok. Sirip-sirip 4–14 cm panjangnya, dengan 10–45 anak daun per sirip, duduk, berhadapan. Anak daun memanjang sampai bentuk garis, dengan ujung runcing, miring, sisi bawah hijau biru, 6–13 × 1,5–4 mm, tulang daun tengah sangat dekat dengan tepi atas.",
+    "bunga": "Bunga majemuk berbentuk bongkol yang bertangkai, yang terkumpul lagi menjadi malai yang panjangnya 15–30 cm. Bongkol berisi 10–20 kuntum bunga. Bunga berbilangan-5; dengan kelopak bergigi, tinggi lk 4 mm, berambut; tabung mahkota bentuk corong, kuning hijau, tinggi lk 7 mm, berambut.",
+    "buah": "Buah polong panjang 10–18 cm × 2–3,5 cm, tidak membuka, patah-patah tidak teratur",
+    "ekologi": "Sengon dijumpai secara alami di hutan luruh daun campuran di wilayah lembap dan ugahari, dengan curah hujan antara 1.000–5.000 mm pertahun. Pohon ini didapati pula di hutan-hutan sekunder, di sepanjang tepian sungai, dan di sabana, hingga ketinggian 1.800 m dpl. Sengon beradaptasi dengan baik pada tanah-tanah miskin, ber-pH tinggi, atau yang mengandung garam; juga tumbuh baik di tanah aluvial lateritik dan tanah berpasir bekas tambang.",
+    "manfaat": "Sengon menghasilkan kayu yang ringan sampai agak ringan, dengan densitas 320–640 kg/m³ pada kadar air 15%. Agak padat, berserat lurus dan agak kasar, namun mudah dikerjakan. Kayu terasnya kuning mengkilap sampai cokelat-merah-gading; kekuatan dan keawetannya digolongkan ke dalam kelas kuat III–IV dan kelas awet III–IV. Kayu ini tidak diserang rayap tanah, karena adanya kandungan zat ekstraktif di dalam kayunya. Kayu sengon biasa dimanfaatkan untuk membuat peti, perahu, ramuan rumah dan jembatan.",
     "gambar": "albiziaChinesis.jpg"
   },
   {
-    "id": 14,
+    "id": 15,
     "tittle": "Portulaca leavies Wall",
+    "jenis": "(Mangrove Asosiasi)",
+    "deskripsi": "Tanaman krokot merupakan terna banyak mengandung air, tumbuh tegak atau sebagian/ seluruh bagian tanaman  merayap di permukaan tanah tanpa keluar akar dari bagian tanaman yang merayap tersebut. Batangnya bulat dan warnanya cokelat keunguan, panjangnya dapat mencapai 50 cm.",
+    "daun": "Daunnya juga tebal dan berdaging, dan bunganya berwarna kuning sulfur. Daun tanaman krokot merupakan daun tunggal berwarna hijau berbentuk bulat telur, ujung dan pangkalnya tumpul. Tepi daunnya rata dan berdaging yang memiliki panjang 1–3 cm dan lebar 1–2 cm.",
+    "bunga": "Bunga Krokot merupakan bunga majemuk yang terletak di ujung cabang. Tanaman krokot juga memiliki kelopak bunga bewarna hijau, bertajuk, dan bersayap.[2] Mahkota bunga krokot berbentuk jantung, memiliki 3-5 kepala putik bewarna putih dan kuning.",
+    "buah": "Buah krokot berbentuk kotak, berwarna hijau, dan memiliki biji yang banyak. Bijinya bulat kecil mengkilap, bewarna hitam.",
+
+    "ekologi": "tanaman yang tumbuh liar di lapangan dan dapat tumbuh di daerah yang berpasir dan tanah liat. Krokot ini dapat tumbuh meski kekurangan air dan memiliki sifat adaptasi yang baik terhadap lingkungan.",
+    "manfaat": "Biasa dapat dijadikan insektisida, karena mengandung zat tanin, fosfat, mengandung magnesium dalam jumlah yang banyak, zat besi, aluminium, mangan, kalsium, potasium, sodium, dan urea. Dalam farmakologi Cina, ia dikatakan dapat menyembuhkan disentri. Selain itu, ia bersifat penenang, peluruh air seni, dan sebagai tonik.",
+
     "gambar": "portulacaLeaviesWall.jpg"
   },
   {
-    "id": 15,
+    "id": 16,
     "tittle": "Terminalia catappa",
+    "jenis": "(Mangrove Asosiasi)",
+    "deskripsi": "Ketapang atau katapang (Terminalia catappa) adalah nama sejenis pohon tepi pantai yang rindang. Pohon besar, tingginya mencapai 40 m dan gemang batang sampai 1,5 m. Bertajuk rindang dengan cabang-cabang yang tumbuh mendatar dan bertingkat-tingkat; pohon yang muda sering tampak seperti pagoda. Pohon-pohon yang tua dan besar acap kali berbanir (akar papan), tingginya bisa hingga 3 m.",
+    "daun": "Daun-daun tersebar, sebagian besarnya berjejalan di ujung ranting, bertangkai pendek atau hampir duduk. Helaian daun bundar telur terbalik, 8–25(–38) x 5–14(–19) cm, dengan ujung lebar dengan runcingan dan pangkal yang menyempit perlahan, helaian di pangkal bentuk jantung, pangkal dengan kelenjar di kiri-kanan ibu tulang daun di sisi bawah. Helaian serupa kulit, licin di atas, berambut halus di sisi bawah; kemerahan jika akan rontok.",
+    "bunga": "Bunga-bunga berukuran kecil, terkumpul dalam bulir dekat ujung ranting, panjang 8–25 cm, hijau kuning. Bunga tak bermahkota, dengan kelopak bertaju-5, bentuk piring atau lonceng, 4–8 mm, putih atau krem.",
+    "buah": "Buah batu bulat telur gepeng, bersegi atau bersayap sempit, 2,5–7 x 4–5,5 cm, hijau-kuning-merah, atau ungu kemerahan jika masak.",
+    "ekologi": "Pohon ini cocok dengan iklim pesisir dan dataran rendah hingga ketinggian sekitar 400 m dpl.; curah hujan antara 1.000–3.500 mm pertahun, dan bulan kering hingga 6 bulan.",
+    "manfaat": "Pepagannya dan daun-daunnya dimanfaatkan orang untuk menyamak kulit, sebagai bahan pewarna hitam, dan juga untuk membuat tinta. Daun ketapang dapat menurunkan kadar Ph air, menyerap racun dalam air, mencerahkan warna ikan cupang dan juga mengobati luka pada ikan cupang setelah pemijahan. Kayu dalam perdagangan dikenal sebagai red-brown terminalia, dan digunakan sebagai penutup lantai atau venir. Di Indonesia, kayu ini digunakan dalam pembuatan perahu dan juga untuk ramuan rumah. Biji ketapang dapat dimakan mentah atau dimasak, konon lebih enak dari biji kenari, dan digunakan sebagai pengganti biji amandel (almond) dalam kue-kue.",
     "gambar": "terminaliaCatappa.jpg"
   }
 ]

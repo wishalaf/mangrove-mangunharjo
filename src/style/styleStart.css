@@ -1,0 +1,29 @@
+@media screen and (max-width: 768px) {
+  img.Quiz4 {
+    width: 200px;
+    height: 250px;
+    justify-content: center;
+    margin-left: 20px;
+  }
+
+  .judulQuiz {
+    margin-top: 20px;
+  }
+
+  p {
+  }
+}
+
+@media screen and (min-width: 992px) {
+  img.Quiz4 {
+    width: 400px;
+    height: 450px;
+  }
+
+  .judulQuiz {
+    margin-top: 50px;
+  }
+
+  p {
+  }
+}

@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "title": "Kerupuk Udang Barokah",
+    "gambar": "kerupukBarokah.jpg",
+    "googleMaps": "https://goo.gl/maps/gNiEjgS7VpKcQyyr7"
+  },
+  {
+    "id": 2,
+    "title": "Dapur Bunda",
+    "gambar": "dapurbunda.jpg",
+    "googleMaps": "https://goo.gl/maps/SVXGuuobeQDhPqdj6"
+  },
+  {
+    "id": 3,
+    "title": "Wingko Semar",
+    "gambar": "wingkosemar.jpg",
+    "googleMaps": "https://goo.gl/maps/zyexDeXeoWi6dfka7"
+  },
+
+  {
+    "id": 4,
+    "title": "Kiss Kitchen",
+    "gambar": "kisskitchen.jpg",
+    "googleMaps": "https://goo.gl/maps/gNiEjgS7VpKcQyyr7"
+  },
+  {
+    "id": 5,
+    "title": "Isma MW",
+    "gambar": "ismaMW.jpg",
+    "googleMaps": "https://goo.gl/maps/Z1PNVnUD5QahzLTG6"
+  },
+  {
+    "id": 6,
+    "title": "Kerupuk Udang Barokah",
+    "gambar": "kerupukBarokah.jpg",
+    "googleMaps": "https://goo.gl/maps/gNiEjgS7VpKcQyyr7"
+  },
+  {
+    "id": 7,
+    "title": "Jamu Seduh Sutriyah",
+    "gambar": "jamuSutriyah.jpg",
+    "googleMaps": "https://goo.gl/maps/5dgSr7rXKaHKQTrT8"
+  },
+  {
+    "id": 8,
+    "title": "Jamu Gendong Suparmi",
+    "gambar": "jamuSuparmi.jpg",
+    "googleMaps": "https://goo.gl/maps/kHYYJxZwUF1R8gD89"
+  },
+
+  {
+    "id": 9,
+    "title": "Warung Kue Koki Kembar",
+    "gambar": "kokikembar.jpg",
+    "googleMaps": "https://goo.gl/maps/PRKrqqnxGESjLRmcA"
+  },
+  {
+    "id": 10,
+    "title": "Kerupuk Bawang Juwariyah",
+    "gambar": "kerupukJuwariyah.jpg",
+    "googleMaps": "https://goo.gl/maps/wsxy78ZPCscYHWvh9"
+  },
+  {
+    "id": 11,
+    "title": "Omah Kopi dan Rempah-Rempah",
+    "gambar": "omahkopi.jpg",
+    "googleMaps": "https://goo.gl/maps/wgEGpNoMTag6fEreA"
+  }
+]

@@ -7,12 +7,11 @@ import Gallery4 from "../asset/assetGallery/Gallery4.jpg";
 import Gallery5 from "../asset/assetGallery/Gallery5.jpg";
 import Gallery6 from "../asset/assetGallery/Gallery6.jpg";
 import "../style/Gallery.css";
-import GalleryBG from "../asset/GalleryBG.jpg";
 
 function Gallery() {
   return (
     <>
-      <div className="container-fluid mt-5" style={{ backgroundColor: "#e8fff3", backgroundSize: "cover" }} id="gallery">
+      <div className="container-fluid mt-5" style={{ backgroundSize: "cover" }} id="gallery">
         <div className="row d-flex justify-content-center">
           <div className="col-10 d-flex justify-content-center mb-5 mt-5">
             <h3 style={{ backgroundColor: "white", borderRadius: 50, padding: 20, width: 500 }} className="text-center">
@@ -21,26 +20,26 @@ function Gallery() {
             </h3>
           </div>
           <div className="wrapCarousel">
-            <Carousel variant="dark" style={{ paddingBottom: 50 }}>
+            <Carousel variant="dark" style={{ paddingBottom: 50, borderRadius: 20 }}>
               <Carousel.Item>
-                <img className="d-block imageCarousel" src={Gallery1} alt="First slide" style={{ borderRadius: 20 }} />
+                <img className="d-block imageCarousel" src={Gallery1} alt="First slide" />
               </Carousel.Item>
               <Carousel.Item>
-                <img className="d-block imageCarousel" src={Gallery2} alt="Second slide" style={{ borderRadius: 20 }} />
+                <img className="d-block imageCarousel" src={Gallery2} alt="Second slide" />
               </Carousel.Item>
               <Carousel.Item>
-                <img className="d-block imageCarousel" src={Gallery3} alt="Third slide" style={{ borderRadius: 20 }} />
-              </Carousel.Item>
-
-              <Carousel.Item>
-                <img className="d-block imageCarousel" src={Gallery4} alt="Third slide" style={{ borderRadius: 20 }} />
-              </Carousel.Item>
-              <Carousel.Item>
-                <img className="d-block imageCarousel" src={Gallery5} alt="Third slide" style={{ borderRadius: 20 }} />
+                <img className="d-block imageCarousel" src={Gallery3} alt="Third slide" />
               </Carousel.Item>
 
               <Carousel.Item>
-                <img className="d-block imageCarousel" src={Gallery6} alt="Third slide" style={{ borderRadius: 20 }} />
+                <img className="d-block imageCarousel" src={Gallery4} alt="Third slide" />
+              </Carousel.Item>
+              <Carousel.Item>
+                <img className="d-block imageCarousel" src={Gallery5} alt="Third slide" />
+              </Carousel.Item>
+
+              <Carousel.Item>
+                <img className="d-block imageCarousel" src={Gallery6} alt="Third slide" />
               </Carousel.Item>
             </Carousel>
           </div>

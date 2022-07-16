@@ -1,12 +1,11 @@
 import React from "react";
 import { Navbar, Nav, Container, Image } from "react-bootstrap";
 import mainLogo from "../asset/Logo1.png";
-import "../style/style.css";
 import { NavLink } from "react-router-dom";
 
 export default function NavbarRouter() {
   return (
-    <Navbar collapseOnSelect expand="lg sm" variant="light">
+    <Navbar collapseOnSelect expand="lg sm" variant="light" className="bg-light border-bottom sticky-lg-top">
       <Container>
         <Navbar.Brand href="#" className="navbar-brand">
           <Image src={mainLogo} style={{ width: 150, height: 65 }} />
