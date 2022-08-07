@@ -4,10 +4,9 @@ import "../style/animation.css";
 import SDGS from "../asset/SDGS.png";
 import USGS from "../asset/USGS.png";
 import TNC from "../asset/TNC.png";
-import mbahe from "../asset/mbahe.jpg";
 import Gallery from "./Gallery";
-import Gallery5 from "../asset/assetGallery/Gallery5.jpg";
 import { UMKM } from "./UMKM";
+import mangrove from "../asset/mangrove.mp4";
 
 export default function Home() {
   return (
@@ -56,12 +55,14 @@ export default function Home() {
       <div className="container abstrak">
         <div className="row justify-content-center">
           <div className="col-lg-5">
-            <img src={Gallery5} style={{ width: "100%", borderRadius: 20 }} alt="mbahe" />
+            <video style={{ width: "100%", borderRadius: 20 }} alt="mbahe" controls>
+              <source src={mangrove} type="video/mp4" />
+            </video>
           </div>
           <div className="col-lg-5 ">
             <div className="abstrak_2 ms-5">
-              <h1>Hutan Mangrove</h1>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam, modi.</p>
+              <h1>Mangunharjo Squad</h1>
+              <p>Ayo kita bersama-sama memajukan potensi hutan mangrove di Kelurahan Mangunharjo, Tugu Kota Semarang. Gabung bersama kami menjadi Mangunharjo Squad</p>
               <a href="#gallery" className="btn btn-warning tombol rounded-pill mt-3">
                 GALLERY
               </a>

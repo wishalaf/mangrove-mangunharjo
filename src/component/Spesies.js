@@ -46,9 +46,11 @@ export const Spesies = () => {
           <div className="container">
             <hr />
             <div className="text-center mt-lg-3 mb-5">
-              <Button onClick={showMoreItems} id="loadMore">
-                Load More
-              </Button>
+              {visible < spesieses.length && (
+                <Button onClick={showMoreItems} id="loadMore">
+                  Load More
+                </Button>
+              )}
             </div>
           </div>
           <MyVerticallyCenteredModal show={modalShow} onHide={() => setModalShow(false)} cardIndex={cardIndex} />

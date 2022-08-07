@@ -1,14 +1,10 @@
-html,
-body,
-#root {
-  height: 100%;
-}
-
 .quiz {
   display: flex;
   align-items: center;
   justify-content: center;
   min-height: 100vh;
+  background-image: url("../asset/bgQuiz6.jpg");
+  background-size: cover;
 }
 
 .quiz .card {
@@ -34,4 +30,16 @@ label.radio + .radio {
 
 label.radio input {
   margin-right: 10px;
+}
+
+@media (min-width: 992px) {
+  .quiz {
+    min-height: 82vh;
+  }
+}
+
+@media (max-width: 768px) {
+  .quiz {
+    min-height: 85vh;
+  }
 }

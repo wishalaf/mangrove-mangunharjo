@@ -12,7 +12,7 @@ export const UMKM = () => {
   return (
     <>
       <div>
-        <div className="container-fluid">
+        <div className="container-fluid mt-5">
           <div className="container text-center">
             <h3>Dukung UMKM</h3>
             <p className="text-secondary">Data infografis terkait pemerintahan desa mangunharjo yang sudah diolah.</p>
@@ -28,7 +28,6 @@ export const UMKM = () => {
                 <Card.Img variant="top" src={`asset_umkm/${ukm.gambar}`} style={{ height: "15rem" }} />
                 <Card.Body>
                   <Card.Title>{ukm.title}</Card.Title>
-                  {/* <Card.Text>Some quick example text to build on the card title and make up the bulk of the card's content.</Card.Text> */}
                   <Card.Text>
                     <a href={ukm.googleMaps} target="_blank" className="text-decoration-none">
                       Google Maps <FiArrowRight />
@@ -42,9 +41,11 @@ export const UMKM = () => {
         <div className="container">
           <hr />
           <div className="text-center mt-lg-3 mb-5">
-            <Button onClick={showMoreItems} id="loadMore">
-              Load More
-            </Button>
+            {visible < umkm.length && (
+              <Button onClick={showMoreItems} id="loadMore">
+                Load More
+              </Button>
+            )}
           </div>
         </div>
       </div>

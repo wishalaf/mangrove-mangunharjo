@@ -4,9 +4,9 @@ import Gallery1 from "../asset/assetGallery/Gallery1.jpg";
 import Gallery2 from "../asset/assetGallery/Gallery2.jpg";
 import Gallery3 from "../asset/assetGallery/Gallery3.jpg";
 import Gallery4 from "../asset/assetGallery/Gallery4.jpg";
-import Gallery5 from "../asset/assetGallery/Gallery5.jpg";
 import Gallery6 from "../asset/assetGallery/Gallery6.jpg";
 import "../style/Gallery.css";
+import IDBU from "../asset/assetGallery/IDBU.jpg";
 
 function Gallery() {
   return (
@@ -22,20 +22,20 @@ function Gallery() {
           <div className="wrapCarousel">
             <Carousel variant="dark" style={{ paddingBottom: 50, borderRadius: 20 }}>
               <Carousel.Item>
-                <img className="d-block imageCarousel" src={Gallery1} alt="First slide" />
+                <img className="d-block imageCarousel" src={Gallery3} alt="Third slide" />
               </Carousel.Item>
               <Carousel.Item>
                 <img className="d-block imageCarousel" src={Gallery2} alt="Second slide" />
               </Carousel.Item>
               <Carousel.Item>
-                <img className="d-block imageCarousel" src={Gallery3} alt="Third slide" />
+                <img className="d-block imageCarousel" src={IDBU} alt="First slide" />
               </Carousel.Item>
 
               <Carousel.Item>
                 <img className="d-block imageCarousel" src={Gallery4} alt="Third slide" />
               </Carousel.Item>
               <Carousel.Item>
-                <img className="d-block imageCarousel" src={Gallery5} alt="Third slide" />
+                <img className="d-block imageCarousel" src={Gallery1} alt="Third slide" />
               </Carousel.Item>
 
               <Carousel.Item>

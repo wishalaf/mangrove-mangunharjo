@@ -8,27 +8,57 @@
     },
     {
       "id": 2,
-      "question": "Apa Fungsi ekologis dari hutan mangrove ?",
+      "question": "Apa fungsi ekologis dari hutan mangrove ?",
       "choices": ["Sebagai penghasil keuntungan bagi masyarakat sekitar", "Sebagai tempat wisata yang indah bagi wisatawan", "Sebagai pelindung dari adanya gempa bumi", "Sebagai habitat atau tempat hidup binatang laut"],
       "answer": "Sebagai habitat atau tempat hidup binatang laut"
     },
     {
       "id": 3,
+      "question": "Apa fungsi ekonomi dari hutan mangrove, kecuali ...",
+      "choices": ["Penghasil kayu", "Bahan baku industri kertas", "Penghasil bibit hewan", "Penghasil oksigen & penyerap karbon dioksida"],
+      "answer": "Penghasil oksigen & penyerap karbon dioksida"
+    },
+    {
+      "id": 4,
       "question": "Hari mangrove sedunia yang diadopsi oleh UNESCO pada tanggal ...",
       "choices": ["26 Juni", "27 Juni", "26 Juli", "27 Juli"],
       "answer": "26 Juli"
     },
     {
-      "id": 4,
+      "id": 5,
       "question": "Peran mangrove sebagai pencegah pemanasan global adalah dengan...",
       "choices": ["Penyerap karbon yang baik", "Penghasil polutan", "Penghasil oksigen terbatas", "Penetral sampah"],
       "answer": "Penyerap karbon yang baik"
     },
     {
-      "id": 5,
+      "id": 6,
       "question": "Hutan Mangrove mencegah terjadinya ...",
       "choices": ["Erosi", "Tsunami", "Abrasi", "Semua benar"],
-      "answer": "Abrasi"
+      "answer": "Semua benar"
+    },
+    {
+      "id": 7,
+      "question": "Akar udara yang berbentuk seperti pensil atau kerucut yang menonjol ke atas ...",
+      "choices": ["Akar Napas", "Akar Lutut", "Akar Tunjang", "Akar Papan"],
+      "answer": "Akar Napas"
+    },
+    {
+      "id": 8,
+      "question": "Akar yang keluar dari batang dan tumbuh ke dalam substrat ...",
+      "choices": ["Akar Napas", "Akar Lutut", "Akar Tunjang", "Akar Papan"],
+      "answer": "Akar Tunjang"
+    },
+    {
+      "id": 9,
+      "question": "Keunikan daun mangrove adalah ...",
+      "choices": ["Permukaan daun yang dilapisi lilin", "Mengeluarkan garam yang terserap melalui akar", "Mampu mempercepat penguapan", "Memiliki aroma daun yang khas"],
+      "answer": "Mengeluarkan garam yang terserap melalui akar"
+    },
+    {
+      "id": 10,
+      "question": "Nama lain genus Rhizopora ...",
+      "choices": ["Bakau", "Api-api", "Tembakau", "Rumput laut"],
+      "answer": "Bakau"
     }
   ]
 }

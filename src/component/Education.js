@@ -1,10 +1,8 @@
 import React from "react";
 import "../style/styleEdu.css";
 import Mangrove6 from "../asset/Mangrove6.jpg";
+import Mangrove10 from "../asset/mangrove10.jpg";
 import { Spesies } from "./Spesies";
-// import BGeducation from "../asset/BGeducation.jpg";
-// import { Container } from "react-bootstrap";
-import onlineTutorial from "../asset/onlineTutorial.jpg";
 import education from "../asset/education.jpg";
 import forest from "../asset/forest.JPG";
 
@@ -36,7 +34,7 @@ export default function Education() {
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
         <path
           fill="#66747d"
-          fill-opacity="1"
+          fillOpacity="1"
           d="M0,96L48,96C96,96,192,96,288,112C384,128,480,160,576,160C672,160,768,128,864,128C960,128,1056,160,1152,176C1248,192,1344,192,1392,192L1440,192L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"
           id="definisi"
         ></path>
@@ -78,6 +76,26 @@ export default function Education() {
         </div>
       </div>
 
+      {/* CIRI-CIRI */}
+      <div className="container-fluid fungsi pt-5">
+        <div className="container pt-lg-5">
+          <div className="row">
+            <div className="col-lg-6 text-start">
+              <h1 className="text-warning definisiJudul">Ciri-Ciri Hutan Mangrove</h1>
+              <ol>
+                <li>Tanah tergenang air laut secara berkala, baik setiap hari atau hanya tergenang pada saat pasang pertama</li>
+                <li>Tempat tersebut menerima pasokan air tawar yang cukup dari darat</li>
+                <li>Daerahnya terlindung dari gelombang besar dan arus pasang surut yang kuat</li>
+                <li>Airnya berkadar garam (bersanilitas) payau (2 - 22°/oo) hingga asin (mencapai 38 bagian permil)</li>
+              </ol>
+            </div>
+
+            <div className="col-lg-6">
+              <img src={Mangrove10} alt="Mangrove10" style={{ borderRadius: 15 }} />
+            </div>
+          </div>
+        </div>
+      </div>
       {/* Spesies */}
       <Spesies />
     </>
