@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/mangrove-mangunharjo/static/css/main.958706bc.css",
+    "main.js": "/mangrove-mangunharjo/static/js/main.e29b1b24.js",
+    "static/js/787.708c2112.chunk.js": "/mangrove-mangunharjo/static/js/787.708c2112.chunk.js",
+    "static/media/mangrove.mp4": "/mangrove-mangunharjo/static/media/mangrove.841e174d4ebe407a8817.mp4",
+    "static/media/Gallery1.jpg": "/mangrove-mangunharjo/static/media/Gallery1.318170ff4ca89f96aca3.jpg",
+    "static/media/Gallery6.jpg": "/mangrove-mangunharjo/static/media/Gallery6.10180aeeeac026fe1361.jpg",
+    "static/media/Gallery3.jpg": "/mangrove-mangunharjo/static/media/Gallery3.a60a55b7450b87b94580.jpg",
+    "static/media/Gallery4.jpg": "/mangrove-mangunharjo/static/media/Gallery4.7be1059ac05734c743d8.jpg",
+    "static/media/Mangrove6.jpg": "/mangrove-mangunharjo/static/media/Mangrove6.3630dd9ad467a028148b.jpg",
+    "static/media/Gallery2.jpg": "/mangrove-mangunharjo/static/media/Gallery2.9be1f07f6280201ab297.jpg",
+    "static/media/Jumbotron.jpg": "/mangrove-mangunharjo/static/media/Jumbotron.acfc592ed82262a08e5a.jpg",
+    "static/media/forest.JPG": "/mangrove-mangunharjo/static/media/forest.50250e5e999f9be519bc.JPG",
+    "static/media/mangrove10.jpg": "/mangrove-mangunharjo/static/media/mangrove10.7569b097c503e0f8d18b.jpg",
+    "static/media/education.jpg": "/mangrove-mangunharjo/static/media/education.284397df6132238d9761.jpg",
+    "static/media/IDBU.jpg": "/mangrove-mangunharjo/static/media/IDBU.4bdb9567d1d64439eb7b.jpg",
+    "static/media/Logo1.png": "/mangrove-mangunharjo/static/media/Logo1.0ffc0f7b231cf59b0a96.png",
+    "static/media/bgQuiz6.jpg": "/mangrove-mangunharjo/static/media/bgQuiz6.ffa12e260eefe555b8d0.jpg",
+    "static/media/pasfoto.jpg": "/mangrove-mangunharjo/static/media/pasfoto.fddcdbe92e4962aedb24.jpg",
+    "static/media/USGS.png": "/mangrove-mangunharjo/static/media/USGS.ce06775db8e9ae5e3b9e.png",
+    "static/media/siti.png": "/mangrove-mangunharjo/static/media/siti.a17fd7a4bac6fc12911a.png",
+    "static/media/churun.png": "/mangrove-mangunharjo/static/media/churun.cb6c17c575710dca8998.png",
+    "static/media/suryanti.png": "/mangrove-mangunharjo/static/media/suryanti.eb59f3a35ca419ca5bf3.png",
+    "static/media/SDGS.png": "/mangrove-mangunharjo/static/media/SDGS.1692135c2317bbd12d47.png",
+    "static/media/TNC.png": "/mangrove-mangunharjo/static/media/TNC.4fe66466d1fa3487a465.png",
+    "static/media/Quiz4.png": "/mangrove-mangunharjo/static/media/Quiz4.592aa2879b68f3476ffa.png",
+    "static/media/iconQuiz1.png": "/mangrove-mangunharjo/static/media/iconQuiz1.dd09d2ca344e1cd1470c.png",
+    "index.html": "/mangrove-mangunharjo/index.html",
+    "main.958706bc.css.map": "/mangrove-mangunharjo/static/css/main.958706bc.css.map",
+    "main.e29b1b24.js.map": "/mangrove-mangunharjo/static/js/main.e29b1b24.js.map",
+    "787.708c2112.chunk.js.map": "/mangrove-mangunharjo/static/js/787.708c2112.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.958706bc.css",
+    "static/js/main.e29b1b24.js"
+  ]
+}
